@@ -1,0 +1,32 @@
+.footer{
+    background-color: #343B41;
+    width: 100%; position: absolute;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    color: #F3F4FB;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #c4c2c2;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+hr {
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
